@@ -1,5 +1,5 @@
 # Website
-Reposiroty for the USF Website.
+Repository for the USF Website.
 You can see the website here: https://usfteam.pages.dev/
 
 ## Structure
